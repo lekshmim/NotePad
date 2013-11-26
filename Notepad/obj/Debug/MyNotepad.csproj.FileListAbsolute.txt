@@ -1,0 +1,9 @@
+E:\projects C#\MyNotepad\bin\Debug\MyNotepad.exe
+E:\projects C#\MyNotepad\bin\Debug\MyNotepad.pdb
+E:\projects C#\MyNotepad\obj\Debug\ResolveAssemblyReference.cache
+E:\projects C#\MyNotepad\obj\Debug\MyNotepad.frmNotepad.resources
+E:\projects C#\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
+E:\projects C#\MyNotepad\obj\Debug\MyNotepad.exe
+E:\projects C#\MyNotepad\obj\Debug\MyNotepad.pdb
+D:\Projects\Notepad\obj\Debug\MyNotepad.exe
+D:\Projects\Notepad\obj\Debug\MyNotepad.pdb
